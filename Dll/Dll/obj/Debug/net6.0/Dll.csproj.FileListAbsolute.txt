@@ -1,0 +1,15 @@
+C:\Users\aliit\Desktop\Dll\Dll\Dll\bin\Debug\net6.0\Dll.exe
+C:\Users\aliit\Desktop\Dll\Dll\Dll\bin\Debug\net6.0\Dll.deps.json
+C:\Users\aliit\Desktop\Dll\Dll\Dll\bin\Debug\net6.0\Dll.runtimeconfig.json
+C:\Users\aliit\Desktop\Dll\Dll\Dll\bin\Debug\net6.0\Dll.dll
+C:\Users\aliit\Desktop\Dll\Dll\Dll\bin\Debug\net6.0\Dll.pdb
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.csproj.AssemblyReference.cache
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.AssemblyInfoInputs.cache
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.AssemblyInfo.cs
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.csproj.CoreCompileInputs.cache
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.dll
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\refint\Dll.dll
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.pdb
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\Dll.genruntimeconfig.cache
+C:\Users\aliit\Desktop\Dll\Dll\Dll\obj\Debug\net6.0\ref\Dll.dll
