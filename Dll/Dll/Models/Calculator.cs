@@ -8,9 +8,9 @@ namespace Dll.Models
 {
     public class Calculator
     {
-        public void Calculation(int number1, int number2, string process)
+        public void Calculation(double number1, double number2, string process)
         {
-            int result;
+            double result;
 
             switch (process)
             {
