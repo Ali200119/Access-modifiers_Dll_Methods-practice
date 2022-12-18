@@ -1,22 +1,19 @@
 ﻿<Properties StartupConfiguration="{3C0D013C-BDBD-463B-86F0-1BD401DCF089}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dll/Models/Doctor.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Service FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dll/Program.cs">
     <Files>
-      <File FileName="Dll/Program.cs" Line="52" Column="11" IsPinned="True" />
-      <File FileName="Dll/Models/Doctor.cs" Line="11" Column="59" />
+      <File FileName="Dll/Program.cs" Line="78" Column="11" IsPinned="True" />
+      <File FileName="Dll/Models/Doctor.cs" Line="11" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Dll" expanded="True">
             <Node name="Dll" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Doctor.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
             </Node>
           </Node>
         </State>

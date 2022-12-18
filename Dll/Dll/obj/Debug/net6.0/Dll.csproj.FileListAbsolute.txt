@@ -28,3 +28,6 @@ C:/Users/aliit/Desktop/Dll/Dll/Dll/obj/Debug/net6.0/ref/Dll.dll
 /Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/obj/Debug/net6.0/Dll.pdb
 /Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/obj/Debug/net6.0/Dll.genruntimeconfig.cache
 /Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/obj/Debug/net6.0/ref/Dll.dll
+/Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/bin/Debug/net6.0/Service.dll
+/Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/bin/Debug/net6.0/Service.pdb
+/Users/ali200119/Desktop/Access-modifiers_Dll_Methods-practice/Dll/Dll/obj/Debug/net6.0/Dll.csproj.CopyComplete

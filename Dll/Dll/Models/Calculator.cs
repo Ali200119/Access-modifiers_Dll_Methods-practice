@@ -25,9 +25,20 @@ namespace Dll.Models
                     break;
 
                 case "/":
-                    result = number1 / number2;
-                    Console.WriteLine($"Your answer is: {result}");
-                    break;
+                    if (number2 == 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("You can't devide by zero");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+
+                    else
+                    {
+                        result = number1 / number2;
+                        Console.WriteLine($"Your answer is: {result}");
+                        break;
+                    }
 
                 case "*":
                     result = number1 * number2;
@@ -35,7 +46,6 @@ namespace Dll.Models
                     break;
 
                 default:
-                    Console.WriteLine("Please enter correct operator");
                     break;
             }
         }
